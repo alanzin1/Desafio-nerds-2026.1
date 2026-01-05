@@ -87,7 +87,7 @@ Pré-requisitos:
 ## 1️⃣ Clone o repositório
 
 ```Bashgit
-git clone
+git clone https://github.com/alanzin1/Desafio-nerds-2026.1.git
 cd nerds
 ```
 
