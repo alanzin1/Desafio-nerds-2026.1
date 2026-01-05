@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "id": "e28b",
+      "nome": "alan victor",
+      "matricula": "536784",
+      "email": "alanzin@gmail.com",
+      "setor": "Front-End",
+      "tipo": "Estágio"
+    },
+    {
+      "id": "0bf1",
+      "nome": "add",
+      "matricula": "232323",
+      "email": "alan@gmail.com",
+      "setor": "Back-End",
+      "tipo": "Voluntário"
+    },
+    {
+      "id": "0a48",
+      "nome": "romeu",
+      "matricula": "322132",
+      "email": "romeuu@gmail.com",
+      "setor": "Qualidade de Software (QA)",
+      "tipo": "Voluntário"
+    },
+    {
+      "id": "165c",
+      "nome": "uytfyag",
+      "matricula": "343213",
+      "email": "jabhjh@gmail.com",
+      "setor": "Front-End",
+      "tipo": "Estágio"
+    }
+  ]
+}

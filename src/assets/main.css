@@ -1,0 +1,47 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  padding: 0;
+  margin: 0;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  outline: none;
+}
+
+:root {
+  --color-primary: #00b7ff;
+  --color-primary-dark: #00435e;
+  --color-danger: #d32f2f;
+  --color-bg: #001829;
+  --color-text: #f8f8f8;
+
+  --font-base: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, sans-serif;
+}
+
+body {
+  font-family: var(--font-base);
+  background: linear-gradient(
+    135deg,
+    var(--color-bg),
+    var(--color-primary-dark)
+  );
+  color: var(--color-text);
+  line-height: 1.5;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+}
