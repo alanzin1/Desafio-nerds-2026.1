@@ -88,7 +88,7 @@ Pré-requisitos:
 
 ```Bashgit
 git clone https://github.com/alanzin1/Desafio-nerds-2026.1.git
-cd nerds
+cd Desafio-nerds-2026.1
 ```
 
 ## 2️⃣ Instale as dependências
