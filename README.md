@@ -41,6 +41,15 @@ Permite cadastrar novos membros informando:
 
 ---
 
+## Tela do protoripo
+
+![Protótipo](https://raw.githubusercontent.com/alanzin1/Desafio-nerds-2026.1/main/src/assets/tela-figma.jpeg)
+
+---
+
+## Link do Protótipo no Figma
+🔗 [Clique aqui para acessar o protótipo](https://www.figma.com/design/CHnrSiEeRhje25xHlFhGRI/Sem-t%C3%ADtulo?node-id=0-1&t=yAhkTe96jpRkkqb6-1)
+
 ## 🛠️ Tecnologias Utilizadas
 
 ### Frontend
