@@ -14,3 +14,15 @@ export async function createMember(member) {
 
   return response.json();
 }
+
+export async function deleteMember(id) {
+  const response = await fetch(`${API_URL}/${id}`, {
+    method: "DELETE",
+  });
+
+  if (!response.ok) {
+    throw new Error("Erro ao apagar membro");
+  }
+
+  return true;
+}
